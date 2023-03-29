@@ -1,6 +1,6 @@
 # ExecBlock - Markdown Code Block Runner
 
-The ExecBlock is a command-line utility that allows you to
+ExecBlock is a command-line utility that allows you to
 extract and execute code blocks from Markdown files.
 
 > For hopefully obvious reasons, do not run arbitrary markdown files through this
